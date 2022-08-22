@@ -1,1 +1,2 @@
 # odin-recipes
+This project is my first attempt at putting together a functioning website and using git to do it. I will be able to use HTML language to categorize text using headings and lists. I will also include pictures and links to other pages within my site that have varous recipes.
